@@ -93,7 +93,7 @@ export default function DefaultFooter() {
                                     <ul className="list-unstyled">
                                         <li>
                                             <a
-                                                href=""
+                                                href="https://www.google.it/"
                                                 target="_blank"
                                                 rel="noreferrer"
                                                 className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
@@ -105,14 +105,14 @@ export default function DefaultFooter() {
                                             <a
                                                 className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
                                                 target="_blank"
-                                                href=""
+                                                href="https://www.google.it/"
                                             >
                                                 Blog
                                             </a>
                                         </li>
                                         <li>
                                             <a
-                                                href=""
+                                                href="https://www.google.it/"
                                                 target="_blank"
                                                 rel="noreferrer"
                                                 className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
@@ -122,7 +122,7 @@ export default function DefaultFooter() {
                                         </li>
                                         <li>
                                             <a
-                                                href=""
+                                                href="https://www.google.it/"
                                                 target="_blank"
                                                 rel="noreferrer"
                                                 className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
@@ -139,7 +139,7 @@ export default function DefaultFooter() {
                                     <ul className="list-unstyled">
                                         <li>
                                             <a
-                                                href=""
+                                                href="https://www.google.it/"
                                                 target="_blank"
                                                 rel="noreferrer"
                                                 className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
@@ -149,7 +149,7 @@ export default function DefaultFooter() {
                                         </li>
                                         <li>
                                             <a
-                                                href=""
+                                                href="https://www.google.it/"
                                                 target="_blank"
                                                 rel="noreferrer"
                                                 className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
@@ -159,7 +159,7 @@ export default function DefaultFooter() {
                                         </li>
                                         <li>
                                             <a
-                                                href=""
+                                                href="https://www.google.it/"
                                                 target="_blank"
                                                 rel="noreferrer"
                                                 className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
@@ -169,7 +169,7 @@ export default function DefaultFooter() {
                                         </li>
                                         <li>
                                             <a
-                                                href=""
+                                                href="https://www.google.it/"
                                                 target="_blank"
                                                 rel="noreferrer"
                                                 className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
@@ -188,7 +188,7 @@ export default function DefaultFooter() {
                             <div className="text-sm text-gray-700 font-medium py-1">
                                 Copyright © {new Date().getFullYear()} {' '}
                                 <a
-                                    href=""
+                                    href="https://www.google.it/"
                                     className="text-gray-700 hover:text-gray-900 transition-all"
                                 >
                                     Viaggiatori di React
