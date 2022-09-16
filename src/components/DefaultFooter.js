@@ -105,6 +105,7 @@ export default function DefaultFooter() {
                                             <a
                                                 className="text-gray-700 hover:text-gray-900 block pb-2 text-sm"
                                                 target="_blank"
+                                                rel="noreferrer"
                                                 href="https://www.google.it/"
                                             >
                                                 Blog
